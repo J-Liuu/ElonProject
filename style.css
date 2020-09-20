@@ -1,22 +1,13 @@
-]
-.tabContainer{
-width: 100%;
-height: 350px;
+body {
+	margin: 0;
+	background: #222;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 800;
 }
-.tabContainer .buttonContainer{
-  height: 15%;
+.container {
+	width: 80%;
+	margin: 0 auto;
 }
-.tabContainer .buttonConatiner button {
-  width: 25%;
-  height: 100%;
-  float: left;
-  border: none;
-  outline:none;
-  cursor: pointer;
-  padding: 10px;
-  font-family: Roboto;
-  font-size: 18px;
-  background-color: #eee;
+header {
+  background: #55d6aa;
 }
-.tabContainer .buttonConatiner
-background-color: #
